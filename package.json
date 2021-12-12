@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-5-autocomplete",
+  "version": "1.0.0",
+  "description": "A simple autocomplete/typeahead for Bootstrap 5 and jQuery",
+  "main": "dist/bootstrap-5-autocomplete.js",
+  "typings": "dist/bootstrap-5-autocomplete.d.ts",
+  "scripts": {
+  },
+  "keywords": [
+    "bootstrap",
+    "autocomplete",
+    "typeahead"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aymeric45/bootstrap-5-autocomplete"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+  },
+  "devDependencies": {
+    "esbuild": "^1",
+  }
+}
